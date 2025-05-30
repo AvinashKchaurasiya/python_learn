@@ -1,0 +1,5 @@
+num1 = int(input("ENter num 1 : "))
+num2 = int(input("Enter num 2 : "))
+num3 = input("Enter value : ")
+print(type(num3))
+print(num1%num2)
